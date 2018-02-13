@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\Game1\Game1\bin\Debug\Game1.exe.config
+C:\Users\asus\Desktop\Game1\Game1\bin\Debug\Game1.exe
+C:\Users\asus\Desktop\Game1\Game1\bin\Debug\Game1.pdb
+C:\Users\asus\Desktop\Game1\Game1\bin\Debug\Game1.xml
+C:\Users\asus\Desktop\Game1\Game1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\asus\Desktop\Game1\Game1\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\asus\Desktop\Game1\Game1\obj\Debug\Game1.vbprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\Game1\Game1\obj\Debug\Game1.Form1.resources
+C:\Users\asus\Desktop\Game1\Game1\obj\Debug\Game1.Resources.resources
+C:\Users\asus\Desktop\Game1\Game1\obj\Debug\Game1.vbproj.GenerateResource.Cache
+C:\Users\asus\Desktop\Game1\Game1\obj\Debug\Game1.exe
+C:\Users\asus\Desktop\Game1\Game1\obj\Debug\Game1.xml
+C:\Users\asus\Desktop\Game1\Game1\obj\Debug\Game1.pdb
